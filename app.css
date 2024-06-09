@@ -72,7 +72,8 @@ select {
 .select-container select{
   font-size: .9rem;
   width: auto;
-  padding: 8  px 0;
+  padding: 8px 0;
+  background-color:#fff;
 }
 #msg{
   margin: 2rem 0;
